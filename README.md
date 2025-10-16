@@ -55,6 +55,7 @@ src/main/resources/templates → Vistas Thymeleaf (HTML).
 --------------------------------------------------------------------------------------------
 
 
+
 Base de Datos: gymdb
 🔹 Tablas Principales
 
