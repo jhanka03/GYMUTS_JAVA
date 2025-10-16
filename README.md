@@ -2,6 +2,7 @@ Programa: Tecnología en Desarrollo de Sistemas Informáticos
 Periodo: II Semestre 2025
 Profesor: Mag. Carlos Adolfo Beltrán Castro
 Estudiantes: JHAN CARLO SANABRIA VEGA 1005282536
+YARLEIDY VALENTINA PAEZ CARANTON  1097664813
 
 
 
